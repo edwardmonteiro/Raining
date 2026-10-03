@@ -139,10 +139,10 @@
       "image": "art/letter.jpg",
       "speaker": "HANA",
       "text": "Quando levantei a tigela, vi um envelope.\n\nJiho baixou os olhos.\n\n“Ela pediu que eu deixasse aí quando você voltasse. Não antes.”\n\nO papel tinha a cor dos verões antigos.",
-      "next": "letter_choice"
+      "next": "letter-choice"
     },
     {
-      "id": "letter_choice",
+      "id": "letter-choice",
       "step": 14,
       "image": "art/letter.jpg",
       "speaker": "COMO VOCÊ QUER ABRIR?",

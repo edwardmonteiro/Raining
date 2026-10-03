@@ -1,8 +1,10 @@
-import json
+import json,re
 from pathlib import Path
 p=Path(__file__).resolve().parents[1]/'app/src/main/assets'
 e=json.loads((p/'episode.json').read_text())
 cards={c['id']:c for c in e['cards']}
+assert all(re.fullmatch('[a-z0-9-]{1,60}',id) for id in cards), 'Card IDs must match the Android pack schema'
+assert all(1 <= c['step'] <= e['cardCount'] and len(c['text']) <= 1500 for c in cards.values())
 assert len(cards)==len(e['cards'])
 paths=[]
 def visit(id,path,choices):
