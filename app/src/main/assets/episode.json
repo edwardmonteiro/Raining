@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "id": "uma-mesa-para-dois",
+  "version": 1,
+  "episode": 1,
+  "title": "Uma mesa para dois",
+  "series": "Quando a chuva passar",
+  "subtitle": "Há lugares que continuam esperando por nós.",
+  "minutes": 3,
+  "cardCount": 18,
+  "start": "arrival",
+  "cover": "art/cover.jpg",
+  "nextTitle": "A mulher da estação",
+  "cards": [
+    {
+      "id": "arrival",
+      "step": 1,
+      "image": "art/cover.jpg",
+      "speaker": "HANA",
+      "text": "Voltei numa quinta-feira. A cidade cheirava a chuva e a óleo de gergelim.\n\nNa bolsa, eu trazia a chave do restaurante e o telefone de um corretor.",
+      "caption": "Uma cidade à beira-mar · início do outono",
+      "next": "door"
+    },
+    {
+      "id": "door",
+      "step": 2,
+      "image": "art/cover.jpg",
+      "speaker": "HANA",
+      "text": "Três meses depois do funeral, a porta ainda emperrava.\n\nMinha mãe dizia: “Levanta um pouquinho antes de empurrar.”\n\nMeu corpo lembrou antes de mim.",
+      "next": "room"
+    },
+    {
+      "id": "room",
+      "step": 3,
+      "image": "art/table.jpg",
+      "speaker": "HANA",
+      "text": "O relógio tinha parado às seis e doze. O avental dela continuava na cadeira.\n\nEu tinha ensaiado entrar, fotografar, vender. Não tinha ensaiado aquele cheiro.",
+      "next": "bowls"
+    },
+    {
+      "id": "bowls",
+      "step": 4,
+      "image": "art/table.jpg",
+      "speaker": "HANA",
+      "text": "Duas tigelas. Dois pares de talheres.\n\nUma lasquinha azul na borda da minha. Eu a reconheceria em qualquer lugar.\n\nQuem tinha arrumado a mesa?",
+      "caption": "Algumas coisas esperam em silêncio.",
+      "next": "jiho"
+    },
+    {
+      "id": "jiho",
+      "step": 5,
+      "image": "art/jiho.jpg",
+      "speaker": "JIHO",
+      "text": "“Você continua chegando quando a comida já devia estar pronta.”\n\nJiho apareceu com uma sacola. O mesmo sorriso torto. Agora, algumas olheiras.",
+      "next": "joke"
+    },
+    {
+      "id": "joke",
+      "step": 6,
+      "image": "art/jiho.jpg",
+      "speaker": "JIHO",
+      "text": "“Trouxe cebolinha. Você ainda separa tudo no canto do prato?”\n\n“Agora sou adulta”, respondi.\n\n“Então separa com mais discrição.”\n\nEu ri antes de conseguir evitar.",
+      "next": "absence"
+    },
+    {
+      "id": "absence",
+      "step": 7,
+      "image": "art/table.jpg",
+      "speaker": "JIHO",
+      "text": "“Eu venho às quintas. Abro as janelas. Cuido das plantas.”\n\nEle olhou para as tigelas.\n\n“Sua mãe sempre deixava dois lugares. Dizia que você podia chegar com fome.”",
+      "next": "ask"
+    },
+    {
+      "id": "ask",
+      "step": 8,
+      "image": "art/table.jpg",
+      "speaker": "O QUE VOCÊ CONSEGUE DIZER?",
+      "text": "A chave marcou minha palma. Havia uma pergunta presa na garganta desde o hospital.",
+      "choices": [
+        {
+          "label": "“Ela ficou magoada comigo?”",
+          "next": "open",
+          "memory": "Você deixou Jiho ouvir a sua pergunta.",
+          "key": "trust",
+          "value": "open"
+        },
+        {
+          "label": "“Vamos cozinhar primeiro.”",
+          "next": "quiet",
+          "memory": "Jiho respeitou o seu silêncio.",
+          "key": "trust",
+          "value": "quiet"
+        }
+      ]
+    },
+    {
+      "id": "open",
+      "step": 9,
+      "image": "art/jiho.jpg",
+      "speaker": "JIHO",
+      "text": "Ele pousou a sacola.\n\n“Ficou. Sentiu sua falta. As duas coisas cabiam nela.”\n\nPela primeira vez, alguém não tentou me consolar depressa.",
+      "next": "stove"
+    },
+    {
+      "id": "quiet",
+      "step": 9,
+      "image": "art/jiho.jpg",
+      "speaker": "JIHO",
+      "text": "Jiho não insistiu. Lavou as mãos e me entregou um pano.\n\n“Então você seca. Eu sempre quebro alguma coisa.”\n\nAgradeci por ele ter entendido uma frase que eu não disse.",
+      "next": "stove"
+    },
+    {
+      "id": "stove",
+      "step": 10,
+      "image": "art/table.jpg",
+      "speaker": "HANA",
+      "text": "Fizemos a sopa sem procurar a receita. Ele cortava; eu corrigia.\n\n“Esse pedaço está enorme.”\n\n“É uma cebolinha ambiciosa.”\n\nLá fora, a chuva engrossou. Aqui dentro, alguma coisa afrouxou.",
+      "next": "soup"
+    },
+    {
+      "id": "soup",
+      "step": 11,
+      "image": "art/hana.jpg",
+      "speaker": "HANA",
+      "text": "Segurei a tigela com as duas mãos. Quente demais, como ela servia.\n\nPor um segundo, esperei ouvir: “Assopra, menina.”\n\nO silêncio veio. Mas Jiho ficou.",
+      "next": "taste"
+    },
+    {
+      "id": "taste",
+      "step": 12,
+      "image": "art/hana.jpg",
+      "speaker": "HANA",
+      "text": "A sopa precisava de sal. Minha mãe teria levantado antes que eu pedisse.\n\nJiho empurrou o saleiro na minha direção.\n\nEu tinha voltado para vender o restaurante. Naquela noite, consegui apenas jantar.",
+      "next": "envelope"
+    },
+    {
+      "id": "envelope",
+      "step": 13,
+      "image": "art/letter.jpg",
+      "speaker": "HANA",
+      "text": "Quando levantei a tigela, vi um envelope.\n\nJiho baixou os olhos.\n\n“Ela pediu que eu deixasse aí quando você voltasse. Não antes.”\n\nO papel tinha a cor dos verões antigos.",
+      "next": "letter_choice"
+    },
+    {
+      "id": "letter_choice",
+      "step": 14,
+      "image": "art/letter.jpg",
+      "speaker": "COMO VOCÊ QUER ABRIR?",
+      "text": "Na frente, meu nome. Atrás, um desenho infantil de uma casa.\n\nEu conhecia aquelas janelas tortas.",
+      "choices": [
+        {
+          "label": "Pedir que Jiho fique comigo",
+          "next": "together",
+          "memory": "Você dividiu a primeira lembrança com Jiho.",
+          "key": "letter",
+          "value": "together"
+        },
+        {
+          "label": "Guardar esse instante para mim",
+          "next": "alone",
+          "memory": "Você reservou um instante só para você.",
+          "key": "letter",
+          "value": "alone"
+        }
+      ]
+    },
+    {
+      "id": "together",
+      "step": 15,
+      "image": "art/jiho.jpg",
+      "speaker": "JIHO",
+      "text": "“Fica aqui?”\n\nEle puxou a cadeira, sem tentar pegar o envelope.\n\n“Estou aqui.”\n\nNão era uma promessa grande. Talvez por isso eu tenha acreditado.",
+      "next": "handwriting"
+    },
+    {
+      "id": "alone",
+      "step": 15,
+      "image": "art/letter.jpg",
+      "speaker": "HANA",
+      "text": "“Preciso de um minuto.”\n\nJiho assentiu. Da cozinha, ouvi a torneira abrir.\n\nEle encontrou um jeito de me deixar sozinha sem ir embora.",
+      "next": "handwriting"
+    },
+    {
+      "id": "handwriting",
+      "step": 16,
+      "image": "art/letter.jpg",
+      "speaker": "A CARTA",
+      "text": "Dentro havia um bilhete meu, escrito aos oito anos:\n\n“Mãe, quando eu for grande, vou te levar para conhecer o mundo. Mas a gente volta para jantar.”\n\nEu tinha esquecido. Ela não.",
+      "next": "photo"
+    },
+    {
+      "id": "photo",
+      "step": 17,
+      "image": "art/letter.jpg",
+      "speaker": "HANA",
+      "text": "Atrás do bilhete, uma fotografia: minha mãe, jovem, numa estação. Uma mala aos pés.\n\nNo verso, a letra dela:\n\n“Hana, antes de ser sua mãe, eu também tentei partir.”",
+      "next": "last"
+    },
+    {
+      "id": "last",
+      "step": 18,
+      "image": "art/hana.jpg",
+      "speaker": "HANA",
+      "text": "Deixei o telefone do corretor dentro da bolsa.\n\nAmanhã, eu perguntaria sobre a estação.\n\nHoje, ainda havia sopa. E alguém do outro lado da mesa.",
+      "ending": true,
+      "caption": "Nem todo retorno precisa de uma resposta."
+    }
+  ]
+}
