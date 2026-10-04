@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "id": "a-mulher-da-estacao",
+  "version": 1,
+  "episode": 2,
+  "title": "A mulher da estação",
+  "series": "Quando a chuva passar",
+  "subtitle": "Antes de ser mãe, ela também tinha uma passagem.",
+  "minutes": 3,
+  "cardCount": 18,
+  "start": "morning",
+  "cover": "art/station.jpg",
+  "endingTitle": "Hoje, você conheceu\numa parte dela.",
+  "nextTitle": "O retrato que faltava",
+  "cards": [
+    {
+      "id": "morning",
+      "step": 1,
+      "image": "art/station.jpg",
+      "speaker": "HANA",
+      "text": "Na manhã seguinte, levei a fotografia à estação.\n\nA mala aos pés da minha mãe parecia pequena demais para uma vida inteira. Ou talvez ela não pretendesse levar tudo.",
+      "next": "umbrella",
+      "caption": "Sexta-feira · a estação à beira-mar"
+    },
+    {
+      "id": "umbrella",
+      "step": 2,
+      "image": "art/bench.jpg",
+      "speaker": "JIHO",
+      "text": "Jiho me encontrou na plataforma.\n\n“Você esqueceu o guarda-chuva.”\n\n“E você atravessou a cidade por isso?”\n\n“Também precisava perder uma discussão com a senhora do chá.”",
+      "next": "name"
+    },
+    {
+      "id": "name",
+      "step": 3,
+      "image": "art/kiosk.jpg",
+      "speaker": "EUN-SOOK",
+      "text": "Atrás do balcão, uma mulher de cabelos grisalhos pegou a foto.\n\n“Seoyeon. Nesse dia, ela quase perdeu o trem procurando o pente.”\n\nFazia tanto tempo que eu só ouvia chamarem minha mãe de mãe.",
+      "next": "dream"
+    },
+    {
+      "id": "dream",
+      "step": 4,
+      "image": "art/kiosk.jpg",
+      "speaker": "EUN-SOOK",
+      "text": "“Sou Eun-sook. Nós duas crescemos aqui.”\n\nEla serviu o chá.\n\n“Sua mãe queria fotografar gente que ainda não conhecia. Dizia que toda pessoa tinha um rosto que só aparecia quando esquecia a câmera.”",
+      "next": "question"
+    },
+    {
+      "id": "question",
+      "step": 5,
+      "image": "art/station.jpg",
+      "speaker": "O QUE VOCÊ QUER DESCOBRIR?",
+      "text": "Olhei outra vez a jovem da fotografia.\n\nEu conhecia as mãos dela cortando legumes. Nunca as tinha imaginado segurando uma passagem.",
+      "choices": [
+        {
+          "label": "“Por que ela não foi embora?”",
+          "next": "departure",
+          "memory": "Você descobriu que a história dela continuava depois da fotografia."
+        },
+        {
+          "label": "“Foi a senhora que tirou essa foto?”",
+          "next": "photographer",
+          "memory": "Você ouviu a lembrança de quem acompanhou a partida."
+        }
+      ]
+    },
+    {
+      "id": "departure",
+      "step": 6,
+      "image": "art/kiosk.jpg",
+      "speaker": "EUN-SOOK",
+      "text": "Eun-sook ergueu uma sobrancelha.\n\n“Quem disse que não foi? Ficou seis meses em Busan.”\n\nDe repente, percebi: eu tinha decidido o fim da história olhando uma única fotografia.",
+      "next": "train"
+    },
+    {
+      "id": "photographer",
+      "step": 6,
+      "image": "art/kiosk.jpg",
+      "speaker": "EUN-SOOK",
+      "text": "“Fui. Ela me ensinou a apertar o botão três vezes. Depois saiu com meu pente no bolso.”\n\nEun-sook sorriu.\n\n“Só devolveu seis meses depois, quando voltou de Busan.”",
+      "next": "train"
+    },
+    {
+      "id": "train",
+      "step": 7,
+      "image": "art/train.jpg",
+      "speaker": "HANA",
+      "text": "Tentei imaginar minha mãe naquele trem: vinte e poucos anos, uma câmera, medo de errar a plataforma.\n\nSem saber fazer minha sopa. Sem saber meu nome.\n\nSem saber que eu existiria.",
+      "next": "postcards"
+    },
+    {
+      "id": "postcards",
+      "step": 8,
+      "image": "art/train.jpg",
+      "speaker": "EUN-SOOK",
+      "text": "“Arranjou trabalho num laboratório de fotografia. Mandava cartões contando sobre as pessoas. A moça da lavanderia. Um homem que comprava flores toda terça.”\n\n“E por que voltou?”",
+      "next": "return"
+    },
+    {
+      "id": "return",
+      "step": 9,
+      "image": "art/kiosk.jpg",
+      "speaker": "EUN-SOOK",
+      "text": "“Disse que sentia falta do mar daqui. E que a cidade grande não era do jeito que imaginava.”\n\n“Ela se arrependeu?”\n\n“Alguns dias, sim. Em outros, planejava outra viagem. Sua mãe mudava de ideia, Hana.”",
+      "next": "bench"
+    },
+    {
+      "id": "bench",
+      "step": 10,
+      "image": "art/bench.jpg",
+      "speaker": "HANA",
+      "text": "Levamos o chá para o banco da plataforma. Um trem passou sem parar.\n\n“Eu achava que ela tinha desistido de tudo por minha causa.”\n\nJiho esperou o barulho dos vagões diminuir.",
+      "next": "answer"
+    },
+    {
+      "id": "answer",
+      "step": 11,
+      "image": "art/bench.jpg",
+      "speaker": "JIHO",
+      "text": "“Você ainda nem tinha nascido.”\n\n“Eu sei. Agora eu sei.”\n\nEle empurrou meu copo para longe da beirada.\n\nEu queria ter perguntado mais. Sobre o trabalho. Sobre as flores de terça-feira.",
+      "next": "say"
+    },
+    {
+      "id": "say",
+      "step": 12,
+      "image": "art/bench.jpg",
+      "speaker": "O QUE VOCÊ DIVIDE COM JIHO?",
+      "text": "Havia coisas que eu só dizia quando já era tarde.\n\nJiho continuava ali. A conversa ainda podia acontecer.",
+      "choices": [
+        {
+          "label": "“Tenho medo de esquecer a voz dela.”",
+          "next": "voice",
+          "memory": "Você confiou a Jiho o medo de esquecer a voz da sua mãe."
+        },
+        {
+          "label": "“Me conta uma coisa engraçada sobre ela.”",
+          "next": "laugh",
+          "memory": "Você abriu espaço para rir de uma lembrança com Jiho."
+        }
+      ]
+    },
+    {
+      "id": "voice",
+      "step": 13,
+      "image": "art/bench.jpg",
+      "speaker": "JIHO",
+      "text": "“Eu tenho um áudio dela brigando comigo por molhar as plantas demais.”\n\nOlhei para ele.\n\n“Não apaga.”\n\n“Não apago. Quando você quiser, a gente escuta.”",
+      "next": "drawer"
+    },
+    {
+      "id": "laugh",
+      "step": 13,
+      "image": "art/bench.jpg",
+      "speaker": "JIHO",
+      "text": "“Ela tirou vinte e três fotos de uma sopa e comeu tudo frio.”\n\n“Por quê?”\n\n“Disse que o vapor estava posando errado.”\n\nRi com o rosto molhado. Dessa vez, não pedi desculpa.",
+      "next": "drawer"
+    },
+    {
+      "id": "drawer",
+      "step": 14,
+      "image": "art/kiosk.jpg",
+      "speaker": "EUN-SOOK",
+      "text": "Eun-sook veio recolher os copos.\n\n“Procura o caderno azul. Gaveta de baixo, no restaurante. Ela colava os retratos ali.”\n\n“Ela continuou fotografando?”\n\n“Até quando a gente fingia que não queria.”",
+      "next": "notebook"
+    },
+    {
+      "id": "notebook",
+      "step": 15,
+      "image": "art/notebook.jpg",
+      "speaker": "HANA",
+      "text": "De volta ao restaurante, encontrei o caderno debaixo dos panos limpos.\n\nO peixeiro rindo. Eun-sook de olhos fechados. Jiho, mais jovem, queimando alguma coisa.\n\nO mundo tinha passado pela nossa mesa. Ela tinha reparado.",
+      "next": "blank"
+    },
+    {
+      "id": "blank",
+      "step": 16,
+      "image": "art/notebook.jpg",
+      "speaker": "HANA",
+      "text": "Na última página, quatro cantoneiras seguravam um espaço vazio.\n\nEmbaixo, a letra dela:\n\n“Hana e eu, do outro lado da mesa. Pedir ao Jiho. Quando ela voltar.”",
+      "next": "missing"
+    },
+    {
+      "id": "missing",
+      "step": 17,
+      "image": "art/notebook.jpg",
+      "speaker": "HANA",
+      "text": "Passei o dedo onde a foto deveria estar. Eu tinha voltado tarde demais para aquele retrato.\n\nPor um instante, quis fechar o caderno. Em vez disso, deixei a página aberta.",
+      "next": "last"
+    },
+    {
+      "id": "last",
+      "step": 18,
+      "image": "art/notebook.jpg",
+      "speaker": "HANA",
+      "text": "Dentro da capa, caiu um comprovante de revelação. Um rolo de filme. Pronto para retirar havia quatro meses.\n\nPeguei o telefone.\n\n“Jiho, você sabe onde fica esse laboratório?”",
+      "ending": true,
+      "caption": "Ainda havia uma fotografia por encontrar."
+    }
+  ]
+}

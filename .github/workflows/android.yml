@@ -23,6 +23,8 @@ jobs:
         run: sdkmanager 'platforms;android-35' 'build-tools;35.0.0'
       - name: Build and validate APK
         run: bash scripts/build.sh
+      - name: Build episode 2 content pack
+        run: python3 scripts/build_episode2.py
       - uses: actions/upload-artifact@v4
         with:
           name: Raining-APK
@@ -40,7 +42,7 @@ jobs:
           target: google_apis
           profile: pixel_6
           disable-animations: true
-          script: python3 scripts/smoke_android.py
+          script: python3 scripts/smoke_android.py && python3 scripts/smoke_episode2.py
       - uses: actions/upload-artifact@v4
         if: always()
         with:
