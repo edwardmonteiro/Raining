@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "id": "o-retrato-que-faltava",
+  "version": 1,
+  "episode": 3,
+  "title": "O retrato que faltava",
+  "series": "Quando a chuva passar",
+  "subtitle": "Há lembranças que ainda estão esperando para chegar.",
+  "minutes": 3,
+  "cardCount": 18,
+  "start": "receipt",
+  "cover": "art/shop.jpg",
+  "endingTitle": "Hoje, uma lembrança\nencontrou você.",
+  "nextTitle": "Uma mesa a mais",
+  "cards": [
+    {
+      "id": "receipt",
+      "step": 1,
+      "image": "art/receipt.jpg",
+      "speaker": "HANA",
+      "text": "O comprovante ficou entre meus dedos até amassar.\n\nQuatro meses esperando numa gaveta. Três meses sem minha mãe.\n\nEm algum lugar, havia imagens dela que o mundo ainda não tinha me mostrado.",
+      "next": "crossing",
+      "caption": "Sexta-feira · depois da estação"
+    },
+    {
+      "id": "crossing",
+      "step": 2,
+      "image": "art/crossing.jpg",
+      "speaker": "JIHO",
+      "text": "Jiho me esperou na esquina.\n\n“É perto?”\n\n“Duas ruas. Três, se você continuar andando para o lado errado.”\n\nEle virou meu guarda-chuva na direção da subida. Eu deixei.",
+      "next": "shop"
+    },
+    {
+      "id": "shop",
+      "step": 3,
+      "image": "art/shop.jpg",
+      "speaker": "HANA",
+      "text": "O laboratório era estreito, entre uma sapataria e uma loja fechada.\n\nNa vitrine, bebês que já deviam ter filhos.\n\nEmpurrei a porta. O sino soou alto demais.",
+      "next": "keeper"
+    },
+    {
+      "id": "keeper",
+      "step": 4,
+      "image": "art/keeper.jpg",
+      "speaker": "SENHOR PARK",
+      "text": "O homem do balcão leu o comprovante e tirou os óculos.\n\n“Filha da Seoyeon?”\n\nAssenti. Ele abriu um arquivo de envelopes.\n\n“Eu guardei. Não sabia para quem ligar.”",
+      "next": "envelope"
+    },
+    {
+      "id": "envelope",
+      "step": 5,
+      "image": "art/envelope.jpg",
+      "speaker": "O QUE VOCÊ PRECISA PRIMEIRO?",
+      "text": "No envelope, reconheci a letra dela.\n\nMeu polegar parou debaixo da aba. Abrir significava encontrar alguma coisa. Também significava chegar à última foto.",
+      "choices": [
+        {
+          "label": "“Como ela estava quando veio?”",
+          "next": "last-visit",
+          "memory": "Você procurou uma lembrança da última visita de Seoyeon."
+        },
+        {
+          "label": "Abrir o envelope com cuidado",
+          "next": "opening",
+          "memory": "Você encontrou primeiro os pequenos detalhes das fotografias."
+        }
+      ]
+    },
+    {
+      "id": "last-visit",
+      "step": 6,
+      "image": "art/last-visit.jpg",
+      "speaker": "SENHOR PARK",
+      "text": "“Reclamou que eu cobrava por foto tremida.”\n\nEle sorriu, sem esconder a tristeza.\n\n“Depois pediu duas cópias de todas. Uma para você escolher quando viesse.”\n\nPuxei a primeira fotografia.",
+      "next": "crooked",
+      "caption": "Quatro meses antes · a lembrança do senhor Park"
+    },
+    {
+      "id": "opening",
+      "step": 6,
+      "image": "art/opening.jpg",
+      "speaker": "HANA",
+      "text": "Abri pela lateral para não rasgar o nome.\n\nDuas cópias de cada foto. Nas primeiras, reconheci a cozinha, uma cortina nova, o canto do balcão.\n\nCoisas pequenas que tinham mudado enquanto eu estava longe.",
+      "next": "crooked"
+    },
+    {
+      "id": "crooked",
+      "step": 7,
+      "image": "art/crooked.jpg",
+      "speaker": "HANA",
+      "text": "Uma fotografia mostrava Jiho diante de uma panela soltando fumaça.\n\n“Você queimou arroz?”\n\n“A panela participou.”\n\nVirei a foto antes de rir alto. Ele tentou olhar por cima do meu ombro.",
+      "next": "ordinary"
+    },
+    {
+      "id": "ordinary",
+      "step": 8,
+      "image": "art/ordinary.jpg",
+      "speaker": "HANA",
+      "text": "Depois vieram três vasos na janela. Um sapato molhado. Uma tangerina descascada de uma vez só.\n\nEu esperava um segredo. Minha mãe tinha fotografado uma sexta-feira qualquer.\n\nSenti saudade até da casca.",
+      "next": "portrait"
+    },
+    {
+      "id": "portrait",
+      "step": 9,
+      "image": "art/portrait.jpg",
+      "speaker": "A FOTOGRAFIA",
+      "text": "Na última imagem, ela estava sentada à mesa, rindo.\n\nAo lado, um notebook aberto. Na tela, meu rosto.\n\nA foto tinha ficado um pouco torta. Nós duas cabíamos nela.",
+      "next": "recognition"
+    },
+    {
+      "id": "recognition",
+      "step": 10,
+      "image": "art/recognition.jpg",
+      "speaker": "HANA",
+      "text": "Era nossa chamada de domingo. Eu usava fones e respondia mensagens do trabalho.\n\nLembrei de ter dito: “Mãe, fala. Estou ouvindo.”\n\nNão lembrava daquele sorriso.",
+      "next": "timer"
+    },
+    {
+      "id": "timer",
+      "step": 11,
+      "image": "art/timer.jpg",
+      "speaker": "JIHO",
+      "text": "Jiho olhou a fotografia.\n\n“Ajudei a apoiar a câmera no balcão. Ela queria aprender o temporizador.”\n\nEle fez uma pausa.\n\n“Depois fui embora. Não sabia se tinha dado certo.”",
+      "next": "tell"
+    },
+    {
+      "id": "tell",
+      "step": 12,
+      "image": "art/tell.jpg",
+      "speaker": "O QUE VOCÊ CONSEGUE DIZER?",
+      "text": "Passei a unha pela borda branca. Naquele domingo, eu tinha pressa. Agora, ficaria ali o tempo que fosse.\n\nJiho afastou os outros retratos para a foto não dobrar.",
+      "choices": [
+        {
+          "label": "“Eu devia ter fechado o trabalho.”",
+          "next": "regret",
+          "memory": "Jiho ficou ao seu lado enquanto você nomeava o arrependimento."
+        },
+        {
+          "label": "“Lembrei do que fez ela rir.”",
+          "next": "joke",
+          "memory": "Você recuperou uma conversa que ainda conseguia fazer você rir."
+        }
+      ]
+    },
+    {
+      "id": "regret",
+      "step": 13,
+      "image": "art/regret.jpg",
+      "speaker": "JIHO",
+      "text": "“Devia. Eu queria que você tivesse conseguido.”\n\nEle não tentou corrigir minha lembrança.\n\nDepois apontou para o retrato.\n\n“E ela riu com você. Essa parte também aconteceu.”",
+      "next": "holding"
+    },
+    {
+      "id": "joke",
+      "step": 13,
+      "image": "art/joke.jpg",
+      "speaker": "HANA",
+      "text": "“Eu disse que miojo contava como jantar.”\n\nJiho levantou uma sobrancelha.\n\n“Ela ameaçou vir morar comigo para fiscalizar a geladeira.”\n\nOlhei a foto de novo. Dessa vez, consegui ouvir a risada junto.",
+      "next": "holding"
+    },
+    {
+      "id": "holding",
+      "step": 14,
+      "image": "art/holding.jpg",
+      "speaker": "HANA",
+      "text": "Pedi um envelope novo. Guardei as duas cópias sem separá-las.\n\nAquela imagem não devolvia o abraço que faltou.\n\nMas eu tinha uma coisa nova para lembrar, além da última vez no hospital.",
+      "next": "homeward"
+    },
+    {
+      "id": "homeward",
+      "step": 15,
+      "image": "art/homeward.jpg",
+      "speaker": "HANA",
+      "text": "Na volta, a chuva diminuiu. O envelope foi por dentro do casaco.\n\nJiho acompanhou meus passos, sem perguntar sobre o restaurante.\n\nDessa vez, fui eu quem encontrou a rua.",
+      "next": "album"
+    },
+    {
+      "id": "album",
+      "step": 16,
+      "image": "art/album.jpg",
+      "speaker": "HANA",
+      "text": "Colei uma cópia na página anterior àquela que minha mãe tinha reservado.\n\nDeixei o espaço vazio como estava.\n\nO retrato que não fizemos e o que eu acabara de encontrar podiam ficar no mesmo caderno.",
+      "next": "apron"
+    },
+    {
+      "id": "apron",
+      "step": 17,
+      "image": "art/apron.jpg",
+      "speaker": "HANA",
+      "text": "Fechei o caderno. Peguei o avental da cadeira e amarrei na cintura. Ficou comprido.\n\nJiho parou à porta da cozinha.\n\n“Você vai cozinhar?”\n\n“Primeiro, vou descobrir o que ainda tem na geladeira.”",
+      "next": "doorbell"
+    },
+    {
+      "id": "doorbell",
+      "step": 18,
+      "image": "art/doorbell.jpg",
+      "speaker": "HANA",
+      "text": "Antes que eu abrisse a geladeira, o sino da porta tocou.\n\nUma menina entrou segurando uma marmita vazia.\n\n“Minha avó pediu para devolver. Vocês vão abrir amanhã?”\n\nOlhei para Jiho. Depois, para a mesa.\n\n“Como é o nome dela?”",
+      "ending": true,
+      "caption": "Uma pergunta tinha acabado de entrar pela porta."
+    }
+  ]
+}

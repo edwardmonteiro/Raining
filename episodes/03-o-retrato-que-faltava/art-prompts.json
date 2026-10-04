@@ -1,0 +1,187 @@
+[
+  {
+    "id": "receipt",
+    "asset": "art/receipt.jpg",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Original Raining Korean coastal drama. Refined hand-painted mature anime, fine expressive ink, watercolor grain, cinematic lighting. ONE standalone illustration, no collage, no panels, no words or watermarks. Portrait 2:3, subjects centered for a square-ish mobile crop. Reference images are character/style references only; make a completely new composition. Hana:26, exact short dark-brown bob, beige trench and ivory knit. Jiho:28, exact tousled dark hair, navy jacket and cream sweater. Extreme close-up overhead still life: Hana's adult hands with beige trench/ivory cuffs clutching an aged small crumpled photo-lab collection receipt above wooden restaurant table. Receipt has subtle illegible marks, no readable text. Beside hands lies closed faded dark blue photo album and old black film camera. Cool afternoon light from left window. App will supply written story, keep paper text indistinct. No face visible, focus on tense fingers and creased paper; NOT a soup scene.",
+    "reference_roles": [
+      "hana"
+    ],
+    "correction": null
+  },
+  {
+    "id": "crossing",
+    "asset": "art/crossing.jpg",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Original Raining Korean coastal drama. Refined hand-painted mature anime, fine expressive ink, watercolor grain, cinematic lighting. ONE standalone illustration, no collage, no panels, no words or watermarks. Portrait 2:3, subjects centered for a square-ish mobile crop. Reference images are character/style references only; make a completely new composition. Hana:26, exact short dark-brown bob, beige trench and ivory knit. Jiho:28, exact tousled dark hair, navy jacket and cream sweater. Wide environmental full-body shot: Hana and Jiho together on a steep wet coastal neighborhood street at a fork, Friday afternoon. Hana holds her clear umbrella; Jiho standing beside her points gently toward narrow UPHILL street with an amused restrained smile. Small shuttered shops, painted pale mint walls, electric wires, seaside glimmer downhill. Both same outfits as references, no grocery bag. Bodies natural, not posed romance portrait. Camera from across street, subjects mid-frame, muted blue-green daylight, no amber-drenched restaurant.",
+    "reference_roles": [
+      "hana",
+      "jiho"
+    ],
+    "correction": null
+  },
+  {
+    "id": "shop",
+    "asset": "art/shop.jpg",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Original Raining Korean coastal drama. Refined hand-painted mature anime, fine expressive ink, watercolor grain, cinematic lighting. ONE standalone illustration, no collage, no panels, no words or watermarks. Portrait 2:3, subjects centered for a square-ish mobile crop. Reference images are character/style references only; make a completely new composition. Hana:26, exact short dark-brown bob, beige trench and ivory knit. Jiho:28, exact tousled dark hair, navy jacket and cream sweater. Over-the-shoulder composition from inside a narrow old film photography shop looking OUT through opening glass door: Hana entering, one hand pushes door, short dark bob beige coat visible, startled thoughtful expression. Small brass bell hanging over door; aged faded portraits of babies in shop window, stacks of photo frames, gray afternoon street outside. Jiho a partial navy silhouette behind Hana. Cool green fluorescent shop interior, restrained warm skin. New perspective distinct from street wide shot. No readable shop signs.",
+    "reference_roles": [
+      "hana",
+      "jiho"
+    ],
+    "correction": null
+  },
+  {
+    "id": "keeper",
+    "asset": "art/keeper.jpg",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Original Raining Korean coastal drama. Refined hand-painted mature anime, fine expressive ink, watercolor grain, cinematic lighting. ONE standalone illustration, no collage, no panels, no words or watermarks. Square 1:1 (1024x1024), subjects centered for a square-ish mobile crop. Reference images are character/style references only; make a completely new composition. Hana:26, exact short dark-brown bob, beige trench and ivory knit. Jiho:28, exact tousled dark hair, navy jacket and cream sweater. Medium frontal portrait of NEW elderly Korean man Mr Park around67 behind glass photography shop counter. Receding silver hair, narrow lined face, round glasses held in one hand, brown cardigan and faded denim apron. He thoughtfully reads a small collection receipt with other hand. Background many orderly beige photographic envelopes in archive drawers, old enlarger, green fluorescent light. He has just recognized name of a deceased old customer; sad recognition, not smiling broadly. Slight side of Hana's beige shoulder visible foreground bottom left. No woman behind counter. No readable writing. Unique composition, no dinner or soup.",
+    "correction": null
+  },
+  {
+    "id": "envelope",
+    "asset": "art/envelope.jpg",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Original Raining Korean coastal drama. Refined hand-painted mature anime, fine expressive ink, watercolor grain, cinematic lighting. ONE standalone illustration, no collage, no panels, no words or watermarks. Square 1:1 (1024x1024), subjects centered for a square-ish mobile crop. Reference images are character/style references only; make a completely new composition. Hana:26, exact short dark-brown bob, beige trench and ivory knit. Jiho:28, exact tousled dark hair, navy jacket and cream sweater. Extreme close-up: unopened aged cream photo-lab envelope on greenish glass counter. Hana's thumb, beige sleeve and ivory cuff, pauses just under flap without opening. Jiho's navy sleeve resting a respectful distance away at frame edge. A few blank-backed photos visible under glass, reflection of fluorescent strip. Tense tactile quiet moment. No face, no camera, no text except faint illegible pencil strokes.",
+    "reference_roles": "hana",
+    "correction": null
+  },
+  {
+    "id": "last-visit",
+    "asset": "art/last-visit.jpg",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Original Raining Korean coastal drama. Refined hand-painted mature anime, fine expressive ink, watercolor grain, cinematic lighting. ONE standalone illustration, no collage, no panels, no words or watermarks. Square 1:1 (1024x1024), subjects centered for a square-ish mobile crop. Reference images are character/style references only; make a completely new composition. Hana:26, exact short dark-brown bob, beige trench and ivory knit. Jiho:28, exact tousled dark hair, navy jacket and cream sweater. FLASHBACK FOUR MONTHS EARLIER in photo shop. Seoyeon, the mature laughing mother in second reference (wine cardigan, gray-dark loose bun, fine wrinkles), stands opposite Mr Park from third reference (gray hair, brown cardigan, denim apron). She points teasingly at a blurry small photo while he wears glasses and smiles, two older friends having gentle argument about price. Medium side two-shot, daylight, her lively raised brow, no Hana, no Jiho. References 2 and3 for EXACT older character identities, not their old compositions.",
+    "reference_roles": "Hana style, Seoyeon portrait, Mr Park character",
+    "correction": null
+  },
+  {
+    "id": "opening",
+    "asset": "art/opening.jpg",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Original Raining Korean coastal drama. Refined hand-painted mature anime, fine expressive ink, watercolor grain, cinematic lighting. ONE standalone illustration, no collage, no panels, no words or watermarks. Square 1:1 (1024x1024), subjects centered for a square-ish mobile crop. Reference images are character/style references only; make a completely new composition. Hana:26, exact short dark-brown bob, beige trench and ivory knit. Jiho:28, exact tousled dark hair, navy jacket and cream sweater. Tight intimate three-quarter close-up of Hana at shop counter, looking down intently while carefully opening cream photo envelope along its SIDE seam. Both hands visible and anatomically correct, stack of small photograph white backs just emerging. Her eyes focused, not crying yet. Cool green blurred darkroom equipment background. Chest-up framing, beige trench and ivory knit. No soup and no dinner table.",
+    "reference_roles": "hana",
+    "correction": null
+  },
+  {
+    "id": "crooked",
+    "asset": "art/crooked.jpg",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Original Raining Korean coastal drama. Refined hand-painted mature anime, fine expressive ink, watercolor grain, cinematic lighting. ONE standalone illustration, no collage, no panels, no words or watermarks. Square 1:1 (1024x1024), subjects centered for a square-ish mobile crop. Reference images are character/style references only; make a completely new composition. Hana:26, exact short dark-brown bob, beige trench and ivory knit. Jiho:28, exact tousled dark hair, navy jacket and cream sweater. Candid film-photo flashback, no border: Jiho in family restaurant kitchen four months earlier, cream sweater sleeves rolled up, NO navy raincoat indoors, looking sheepishly at a small metal pot of burnt rice giving off a modest cloud of smoke. He holds a wooden spoon away from pot, mouth half-open caught protesting. Old stove, tiled wall, garlic strings. Slightly tilted camera angle taken by amused mother. Only Jiho, humorous modest real accident, no flames or danger. Reference1Jiho identity, reference2style.",
+    "reference_roles": "jiho",
+    "correction": null
+  },
+  {
+    "id": "ordinary",
+    "asset": "art/ordinary.jpg",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Original Raining Korean coastal drama. Refined hand-painted mature anime, fine expressive ink, watercolor grain, cinematic lighting. ONE standalone illustration, no collage, no panels, no words or watermarks. Square 1:1 (1024x1024), subjects centered for a square-ish mobile crop. Reference images are character/style references only; make a completely new composition. Hana:26, exact short dark-brown bob, beige trench and ivory knit. Jiho:28, exact tousled dark hair, navy jacket and cream sweater. Contemplative macro still life seen as a mother's casual photograph: a fresh tangerine on a worn ceramic saucer, carefully peeled in ONE continuous curling strip, juicy fruit segments beside it. Behind, softly blurred kitchen window has exactly three little potted plants. Cool late-morning light, ordinary imperfect family kitchen, faint dust motes. No people, no printed photograph held up, no text, no soup, no giant fruit. Focus on peel spiral and small acts of everyday life.",
+    "reference_roles": "hana",
+    "correction": null
+  },
+  {
+    "id": "portrait",
+    "asset": "art/portrait.jpg",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Original Raining Korean coastal drama. Refined hand-painted mature anime, fine expressive ink, watercolor grain, cinematic lighting. ONE standalone illustration, no collage, no panels, no words or watermarks. Portrait 2:3, subjects centered for a square-ish mobile crop. Reference images are character/style references only; make a completely new composition. Hana:26, exact short dark-brown bob, beige trench and ivory knit. Jiho:28, exact tousled dark hair, navy jacket and cream sweater. KEY STORY PHOTO: a candid slightly tilted film photograph, no paper border. Cozy restaurant in daylight FOUR MONTHS EARLIER. Hana's MOTHER Seoyeon age55, visibly mature with fine wrinkles, graying dark hair in low loose bun, wine-red cardigan over cream blouse, sits laughing naturally at a wooden table. Beside her an open laptop clearly shows adult Hana's face in a video call, Hana wearing white earphones and navy office blouse, her short dark bob matching reference. Mother and laptop screen both fully visible side-by-side in central area. Camera viewpoint is from counter opposite table, camera itself invisible. Soft spring daylight, no rain scene necessary. One mother and one Hana ON SCREEN only, no other people. Mother is not Hana's age. This photograph is tender and imperfect, her smile captured mid-laugh.",
+    "reference_roles": [
+      "hana"
+    ],
+    "correction": null
+  },
+  {
+    "id": "recognition",
+    "asset": "art/recognition.jpg",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Original Raining Korean coastal drama. Refined hand-painted mature anime, fine expressive ink, watercolor grain, cinematic lighting. ONE standalone illustration, no collage, no panels, no words or watermarks. Square 1:1 (1024x1024), subjects centered for a square-ish mobile crop. Reference images are character/style references only; make a completely new composition. Hana:26, exact short dark-brown bob, beige trench and ivory knit. Jiho:28, exact tousled dark hair, navy jacket and cream sweater. Extreme close portrait of Hana's face inside the photo shop, from slightly above. She has just recognized an unseen photograph held low out of frame; stunned parted lips, one small tear beginning, eyes wide with dawning recognition. Her short dark bob and beige collar same reference. Greenish glass/window reflection soft diagonal across background, shallow depth, quiet emotional restraint. Only her face and shoulders, no bowl, no mother, no other person. Different pose from looking down opening envelope: eyes lifted slightly to middle distance.",
+    "reference_roles": "hana",
+    "correction": null
+  },
+  {
+    "id": "timer",
+    "asset": "art/timer.jpg",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Original Raining Korean coastal drama. Refined hand-painted mature anime, fine expressive ink, watercolor grain, cinematic lighting. ONE standalone illustration, no collage, no panels, no words or watermarks. Square 1:1 (1024x1024), subjects centered for a square-ish mobile crop. Reference images are character/style references only; make a completely new composition. Hana:26, exact short dark-brown bob, beige trench and ivory knit. Jiho:28, exact tousled dark hair, navy jacket and cream sweater. Flashback four months earlier. Jiho alone at restaurant counter, cream sweater sleeves rolled, navy jacket OFF, bends to set mechanical self-timer lever on a vintage black 35mm camera resting on two stacked cookbooks. Tight side view of his concentrated face and hands operating camera. Camera lens points outward toward an unseen dining table. Soft morning light, kitchen towels and utensils, no soup, no other person, no text. Specific action of preparing a self-timed photograph, not taking photo by eye.",
+    "reference_roles": [
+      "jiho"
+    ],
+    "correction": null
+  },
+  {
+    "id": "tell",
+    "asset": "art/tell.jpg",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Original Raining Korean coastal drama. Refined hand-painted mature anime, fine expressive ink, watercolor grain, cinematic lighting. ONE standalone illustration, no collage, no panels, no words or watermarks. Square 1:1 (1024x1024), subjects centered for a square-ish mobile crop. Reference images are character/style references only; make a completely new composition. Hana:26, exact short dark-brown bob, beige trench and ivory knit. Jiho:28, exact tousled dark hair, navy jacket and cream sweater. Top-down close-up composition of photo shop glass counter: Hana's left hand with beige coat sleeve traces white edge of ONE small photograph turned mostly away so image is not readable. Jiho's separate right hand with navy sleeve carefully moves a loose stack of other white-bordered prints farther aside, avoiding bending hers. Some blank white photo backs, cream envelope off to side, green glass and soft reflections. No faces or people printed clearly; story is the caring gesture, anatomically correct hands, no extra fingers.",
+    "reference_roles": [
+      "hana",
+      "jiho"
+    ],
+    "correction": null
+  },
+  {
+    "id": "regret",
+    "asset": "art/regret.jpg",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Original Raining Korean coastal drama. Refined hand-painted mature anime, fine expressive ink, watercolor grain, cinematic lighting. ONE standalone illustration, no collage, no panels, no words or watermarks. Square 1:1 (1024x1024), subjects centered for a square-ish mobile crop. Reference images are character/style references only; make a completely new composition. Hana:26, exact short dark-brown bob, beige trench and ivory knit. Jiho:28, exact tousled dark hair, navy jacket and cream sweater. Emotional medium SIDE PROFILE two-shot at photography shop window. Hana on left facing right, gripping small white-backed photo near chest, shoulders curled inward, speaking with regret, one tear on cheek. Jiho on right facing her, navy rain jacket cream sweater, listening seriously with hands relaxed on counter, not smiling or embracing. Real respectful distance. Cool light from cloudy street, old photo frames in lower foreground. Same identities as references. Pose/composition clearly different from front-facing Hana close-up.",
+    "reference_roles": [
+      "hana",
+      "jiho"
+    ],
+    "correction": null
+  },
+  {
+    "id": "joke",
+    "asset": "art/joke.jpg",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Original Raining Korean coastal drama. Refined hand-painted mature anime, fine expressive ink, watercolor grain, cinematic lighting. ONE standalone illustration, no collage, no panels, no words or watermarks. Square 1:1 (1024x1024), subjects centered for a square-ish mobile crop. Reference images are character/style references only; make a completely new composition. Hana:26, exact short dark-brown bob, beige trench and ivory knit. Jiho:28, exact tousled dark hair, navy jacket and cream sweater. Alternative warm reaction scene inside photo shop. Hana and Jiho seated on mismatched stools near glass counter, relaxed front three-quarter two-shot. Hana smiles through one fading tear, covering a small laugh with fingers; Jiho raises ONE eyebrow with a restrained amused grin. Small stack of white-backed prints on her lap. Same beige trench, ivory knit, navy rain jacket. Cool daylight through shop window, shelves of cameras, no soup bowls, no restaurant. Two people sharing a funny memory instead of sad close-up. No touching or kissing.",
+    "reference_roles": [
+      "hana",
+      "jiho"
+    ],
+    "correction": "Precise object edit to image1. Keep composition, both adult characters, faces, expressions, pose, warm photo shop, and every other detail. Change ONLY: (1) the content of the ONE photo Hana holds upright must be a tiny faithful version of image2, showing her mature mother in red cardigan beside a laptop showing Hana, instead of the current landscape; (2) change Hana's visible blue jeans to plain charcoal-gray trousers, preserving their shape and folds. Image2 is reference for printed photo content ONLY, do not put mother physically in room. Preserve square aspect."
+  },
+  {
+    "id": "holding",
+    "asset": "art/holding.jpg",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Original Raining Korean coastal drama. Refined hand-painted mature anime, fine expressive ink, watercolor grain, cinematic lighting. ONE standalone illustration, no collage, no panels, no words or watermarks. Square 1:1 (1024x1024), subjects centered for a square-ish mobile crop. Reference images are character/style references only; make a completely new composition. Hana:26, exact short dark-brown bob, beige trench and ivory knit. Jiho:28, exact tousled dark hair, navy jacket and cream sweater. Delicate close-up of Hana's two hands carefully sliding TWO duplicate small photo prints, backs facing viewer, into a NEW clean cream paper envelope on photo-shop glass counter. One thumb protects corners, other hand opens envelope. Beige sleeve cuffs and ivory knit; silver-gray edge of Jiho's watch softly out of focus in background but no extra hands. Soft light, intention of preserving something precious. Distinct from earlier unopened aged envelope: this one is smooth new paper, open, photographs halfway INSIDE, no writing. No faces.",
+    "reference_roles": [
+      "hana"
+    ],
+    "correction": "Precise object edit of image1: change ONLY the imagery on BOTH small printed photos sliding into the envelope. They must be two DUPLICATE prints of image2: the mature mother in burgundy cardigan laughing beside an open laptop displaying her daughter. Replace the visible landscapes with that mother-and-laptop image. Preserve the exact hands, sleeves, envelope, glass counter, lighting, composition and square aspect. No real mother in room, just miniature photo content. Keep all other things unchanged."
+  },
+  {
+    "id": "homeward",
+    "asset": "art/homeward.jpg",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Original Raining Korean coastal drama. Refined hand-painted mature anime, fine expressive ink, watercolor grain, cinematic lighting. ONE standalone illustration, no collage, no panels, no words or watermarks. Square 1:1 (1024x1024), subjects centered for a square-ish mobile crop. Reference images are character/style references only; make a completely new composition. Hana:26, exact short dark-brown bob, beige trench and ivory knit. Jiho:28, exact tousled dark hair, navy jacket and cream sweater. Long shot from BEHIND Hana and Jiho walking down a wet narrow street toward the small coastal restaurant, late afternoon rain has almost stopped. Hana beige trench, bob hair, burgundy shoulder bag, one hand tucked protectively inside coat holding unseen envelope. Jiho navy jacket walks at her pace, slight gap. Folded clear umbrella hanging at Hana's side. Their figures in central middle distance, puddles reflecting pale break in clouds, warm restaurant window ahead, view from high on street, no front-facing portraits. Quiet new sense of direction.",
+    "reference_roles": [
+      "hana",
+      "jiho"
+    ],
+    "correction": "Precise garment color edit to image1. Change ONLY Hana's visible beige trouser legs below her beige trench coat to charcoal-dark-gray trousers. Preserve Hana's beige trench coat itself, burgundy bag, umbrella, Jiho, all poses, faces, street, light and composition. Do not change anything else. Maintain square aspect."
+  },
+  {
+    "id": "album",
+    "asset": "art/album.jpg",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Original Raining Korean coastal drama. Refined hand-painted mature anime, fine expressive ink, watercolor grain, cinematic lighting. ONE standalone illustration, no collage, no panels, no words or watermarks. Square 1:1 (1024x1024), subjects centered for a square-ish mobile crop. Reference images are character/style references only; make a completely new composition. Hana:26, exact short dark-brown bob, beige trench and ivory knit. Jiho:28, exact tousled dark hair, navy jacket and cream sweater. NEW overhead scene on restaurant table: an OPEN faded dark BLUE photo album. Hana's beige-sleeved hands carefully affix ONE small printed photo to LEFT page. The tiny inserted photo must faithfully depict the SECOND reference image: mature mother in burgundy cardigan laughing beside laptop showing daughter Hana. NOT a landscape. RIGHT page stays completely EMPTY with four black corner mounts for a missing photograph. The empty place is intentionally preserved. One glue stick and clean empty envelope beside album. NO written words anywhere. Match character photo from reference2 only as miniature inserted print, do NOT put a real mother in room. This is a distinct close-up still life, warm late-afternoon light.",
+    "reference_roles": "Hana identity and the episode's portrait as a miniature photo",
+    "correction": null
+  },
+  {
+    "id": "apron",
+    "asset": "art/apron.jpg",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Original Raining Korean coastal drama. Refined hand-painted mature anime, fine expressive ink, watercolor grain, cinematic lighting. ONE standalone illustration, no collage, no panels, no words or watermarks. Square 1:1 (1024x1024), subjects centered for a square-ish mobile crop. Reference images are character/style references only; make a completely new composition. Hana:26, exact short dark-brown bob, beige trench and ivory knit. Jiho:28, exact tousled dark hair, navy jacket and cream sweater. NEW medium full torso scene in small restaurant kitchen: Hana (reference1 face/short bob) has REMOVED beige trench, now wears ivory cable-knit sweater with sleeves pushed up and charcoal gray trousers. She is tying on her mother's slightly too-long cream cotton APRON WITH SMALL PINK-RED FLOWERS AND GREEN LEAVES, exact fabric shown hanging over chair in reference2. Both her hands bring ties around waist, expression uncertain but quietly resolved. Jiho in navy jacket visible softly at kitchen doorway background, gentle surprise. Closed old refrigerator and shelves, warm home light. Apron is floral cream, NOT solid blue or rust. No soup held, no duplicate characters, no text.",
+    "reference_roles": "Hana identity, episode 1 floral apron, Jiho where shown",
+    "correction": null
+  },
+  {
+    "id": "doorbell",
+    "asset": "art/doorbell.jpg",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Original Raining Korean coastal drama. Refined hand-painted mature anime, fine expressive ink, watercolor grain, cinematic lighting. ONE standalone illustration, no collage, no panels, no words or watermarks. Square 1:1 (1024x1024), subjects centered for a square-ish mobile crop. Reference images are character/style references only; make a completely new composition. Hana:26, exact short dark-brown bob, beige trench and ivory knit. Jiho:28, exact tousled dark hair, navy jacket and cream sweater. NEW final scene at restaurant doorway seen from behind Hana's shoulder. Main subject: an ordinary Korean GIRL around10 years old, child proportions, straight black hair with bangs, mustard-yellow raincoat, modest hopeful questioning expression. She stands just inside open wooden door holding a small empty rectangular stainless steel lunchbox with both hands, lid ajar. Hana visible only from side/back foreground, short dark bob, ivory sweater and cream apron printed with small pink-red flowers and green leaves matching reference2; NO trench now. Cool damp street beyond, warm light inside, small brass doorbell above. Child centered, lunchbox plainly visible, quiet new visitor, not magical, no text.",
+    "reference_roles": "Hana identity, episode 1 floral apron, Jiho where shown",
+    "correction": null
+  }
+]
