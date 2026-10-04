@@ -50,7 +50,7 @@ def run():
     home();click('Lembranças');assert 'medo de esquecer' in texts();screenshot('memories');home()
     click('Episódios');click('01 · Uma mesa para dois');click('Continuar');assert '02 / 18' in texts(),'Episode 1 progress lost';home()
     click('Episódios');click('02 · A mulher da estação');assert 'Revisitar' in texts()
-    click('Episódios');import_pack();assert 'já está instalado' in texts(),'Duplicate protection failed';click('Entendi');home()
+    click('Episódios');import_pack();assert 'já está instalado' in texts(),'Duplicate protection failed';adb('shell','input','keyevent','4');time.sleep(.3);home()
     assert 'Revisitar' in texts(),'Duplicate import changed progress'
     assert 'FATAL EXCEPTION' not in adb('logcat','-d','-s','AndroidRuntime:E')
     print('PASS: real SAF import, all 18 cards, image decode, choices, process-death resume, ending, memories, episode switching and duplicate protection.',flush=True)
